@@ -8,6 +8,7 @@ This portfolio showcases my skills as a data analyst and provides examples of ho
 
 - [Project 1: Interactive Dashboard for Bank Customer Segmentation (RU, ENG)](#project-1)
 - [Project 2: A/B Test Evaluation for Recommender System (RU, ENG)](#project-2)
+- [ExtraProjects in Russian: Various projects (RU)](#project-extra)
 
 ## Projects
 
@@ -112,4 +113,16 @@ Conclusions on the exploratory data analysis phase and on the A/B test results y
 </p>
 </details>
 
+### ExtraProjects in Russian:  Various projects<a name="#project-extra"></a>
 
+This project is graduation project for the Data Analysis Professional Training Course at Practicum INO CPE “Yandex EdTech“ which covered a variety of topics including Python, SQL, Tableau, and business data analytics, totalling 350 hours of instruction.
+#### Project Description
+Project focuses on analyzing 10,000 bank customers, creating customer segments, statistical analysis and new product recommendations. 
+Project involves building an interactive dashboard for analyzing customer segments for Bank Metanprom and creating a presentation. 
+The dashboard provides insights on customer behavior and recommends specific products that might be of interest to different customer segments.
+
+#### Project Language
+English, Russian
+
+#### Project files
+01. [Analysis (Jupyter Notebook in English)]
