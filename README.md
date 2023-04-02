@@ -162,4 +162,10 @@ The project involves analyzing data about the users of the entertainment app Pro
 ##### Project files
 01. [Analysis (Jupyter Notebook in Russian)](https://github.com/Zliubov/data_analyst_projects/blob/aca0d2d327a0d7f9bc39f6b549b5a2fa8acbf593/ExtraProjects/Entertainment%20App%20Marketing%20Analysis.ipynb)
 
+#### Project Video Game Market Research and Sales Analysis
 
+##### Project Description
+
+The project is a data analysis of a video game sales dataset, which involves several steps such as data preparation, exploratory data analysis, user portrait creation, and hypothesis testing. The dataset contains information about game sales, platforms, genres, and ratings. The project aims to identify patterns that determine a game's success and provide insights for planning advertising campaigns. The outline of the project includes an introduction and data description, followed by general information study, data preparation, exploratory data analysis, user portrait creation, and hypothesis testing.
+##### Project files
+01. [Analysis (Jupyter Notebook in Russian)](https://github.com/Zliubov/data_analyst_projects/blob/94561416d84aee3b506bb52bbf9b8d55e7db05b5/ExtraProjects/Video%20Game%20Market%20Research%20and%20Sales%20Analysis.ipynb)
