@@ -51,6 +51,8 @@ Creating of a dashboard.
 Final conclusions and recommendations. 
 Preparation of the research presentation for a bank manager.
 
+## 
+
 ### Project 2: A/B Test Evaluation for Recommender System (RU, ENG)<a name="project-2"></a>
 This project is final project for the Data Analysis Professional Training Course at Practicum INO CPE “Yandex EdTech“ which covered a variety of topics including Python, SQL, Tableau, and business data analytics, totalling 350 hours of instruction.
 
