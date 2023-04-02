@@ -1,0 +1,46 @@
+### Project 2: AB Test Evaluation for Recommender System (RU, ENG)
+
+This project is final project for the Data Analysis Professional Training Course at Practicum INO CPE “Yandex EdTech“ which covered a variety of topics including Python, SQL, Tableau, and business data analytics, totalling 350 hours of instruction.
+
+#### Project Description
+
+This project involves evaluating the results of an A/B test for a recommender system. 
+The test was conducted on new users from the EU region with the goal of testing changes related to the implementation of an improved recommendation system. The technical task outlines the test name, groups, start and stop dates, audience, and expected impact. The evaluation process involves checking the correctness of the test and evaluating the test results based on specific metrics related to user actions such as product page views, product cart views, and purchases.
+
+#### Project Language
+English, Russian
+
+#### Project files
+01. [Analysis (Jupyter Notebook in English)](https://github.com/Zliubov/data_analyst_projects/blob/2fa2f8fc8d844f86e08d7b8927fb33f3707b5d34/Project%201:%20Interactive%20Dashboard%20for%20Bank%20Customer%20Segmentation/Bank%20Customer%20Segmentation%20Analysis%20&%20Interactive%20Dashboard%20(EN).ipynb)
+02. [Analysis (Jupyter Notebook in Russian)](https://github.com/Zliubov/data_analyst_projects/blob/b4607bc852c45e7afa6b121c24f069120f48adc9/Project%201:%20Interactive%20Dashboard%20for%20Bank%20Customer%20Segmentation/Bank%20Customer%20Segmentation%20Analysis%20&%20Interactive%20Dashboard%20(RU).ipynb)
+
+#### Project steps
+
+##### **Exploratory Data Analysis**.
+
+Identifying duplicates, cleaning and transforming client data, identifying patterns in the missing values (if any), processing the missing values and preparing the data for exploratory data analysis.
+
+##### **Evaluation of the accuracy of the test**.
+
+Evaluation of the indicators:
+
+Evaluation of the data against the requirements of the technical task (Statement of Work). Evaluating the correctnness of all the requirements of the AB test. 
+Evaluation of the timing of the test. Possible conflicts with marketing and other activities.
+Evaluation of the target audience of the test. Assessment of possible overlap with a competing test, overlaps between groups. Assesmennt of the distribution and formation of the groups throughout the test.
+
+##### **Exploratory data analysis**.
+
+The evaluation of the questions:
+
+Is the number of events per user evenly distributed across the samples?
+How is the number of events in the samples distributed by day?
+How does the conversion rate change in the funnel in the samples at different stages?
+What characteristics of the data should be considered before starting A/B testing?
+    
+##### **Evaluating the results of A/B testing**
+Evaluation of the results of the A/B test.
+Statistical variance of the shares using a z-test.
+    
+##### **The overall conclusion**.
+
+Conclusions on the exploratory data analysis phase and on the A/B test results you performed. A general conclusion about the validity of the test.
