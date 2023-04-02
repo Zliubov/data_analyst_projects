@@ -154,4 +154,12 @@ The project involves conducting an A/B test for an online shop and analyzing the
 01. [Analysis (Jupyter Notebook in Russian)](https://github.com/Zliubov/data_analyst_projects/blob/19de982c614480e18f929e6bfc6afee62c874a55/ExtraProjects/Hypothesis%20Prioritization%20and%20AB%20Testing%20for%20an%20Online%20Shop.ipynb)
 
 
+#### Project Entertainment App Marketing Analysis
+
+##### Project Description
+
+The project involves analyzing data about the users of the entertainment app Procrastinate Pro+ from May 1 to October 27, 2019. The goal is to understand the reasons for the company's losses despite a huge investment in advertising and help the company turn a profit. The analysis includes studying where users come from, what devices they use, how much it costs to attract users from different advertising channels, how much money each client makes, when the cost of attracting a customer pays off, and what factors prevent the company from attracting customers. The data includes a server log with data about user visits, a download of their purchases during this period, and advertising spend.
+##### Project files
+01. [Analysis (Jupyter Notebook in Russian)](https://github.com/Zliubov/data_analyst_projects/blob/aca0d2d327a0d7f9bc39f6b549b5a2fa8acbf593/ExtraProjects/Entertainment%20App%20Marketing%20Analysis.ipynb)
+
 
