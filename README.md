@@ -30,6 +30,11 @@ English, Russian
 06. [Dashboard in Russian](https://public.tableau.com/views/Metanprom_16752050184820/MetanpromDash?:language=en-US&:display_count=n&:origin=viz_share_link) 
 
 #### Project steps
+
+<details>
+  <summary>See project steps</summary>
+     <p>
+
 ##### **Exploratory Data Analysis**.
 
 This stage involves visualising and summarising customer data to identify patterns and trends, and selecting appropriate characteristics for customer segmentation.
@@ -49,7 +54,8 @@ Formulate and test the second statistical hypothesis in relation to the data pre
 
 Creating of a dashboard.
 Final conclusions and recommendations. 
-Preparation of the research presentation for a bank manager.
+Preparation of the research presentation for a bank manager.</p>
+</details>
 
 ## 
 
@@ -70,11 +76,15 @@ English, Russian
 
 #### Project steps
 
+<details>
+  <summary>See project steps</summary>
+     <p>
+
 ##### **Exploratory Data Analysis**.
 
 Identifying duplicates, cleaning and transforming client data, identifying patterns in the missing values (if any), processing the missing values and preparing the data for exploratory data analysis.
 
-##### **Evaluation of the accuracy of the test.
+##### **Evaluation of the accuracy of the test**.
 
 Evaluation of the indicators:
 
@@ -98,13 +108,7 @@ Statistical variance of the shares using a z-test.
 ##### **The overall conclusion**.
 
 Conclusions on the exploratory data analysis phase and on the A/B test results you performed. A general conclusion about the validity of the test.
-
-
-<details>
-  <summary>Click to expand</summary>
-
-  <!-- Your content here -->
-  <h2>Your Heading</h2>
-  <p>Your paragraph text goes here.</p>
+</p>
 </details>
+
 
