@@ -115,15 +115,15 @@ Conclusions on the exploratory data analysis phase and on the A/B test results y
 
 ##
 
-### ExtraProjects in Russian:  Various projects<a name="#project-extra"></a>
+### ExtraProjects in Russian:  Various projects<a name="project-extra"></a>
 
 
-#### Projects Language
-Russian
 #### Projects description
 
 These projects are part of the Data Analysis Professional Training Course at Practicum INO CPE “Yandex EdTech“ which covered a variety of topics including Python, SQL, Tableau, and business data analytics, totalling 350 hours of instruction.
 
+#### Projects Language
+Russian
 
 #### Project Moscow Catering Market Analysis
 
