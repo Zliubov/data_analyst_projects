@@ -9,9 +9,9 @@ Project involves building an interactive dashboard for analyzing customer segmen
 
 ## Project files
 01. [Bank Customer Segmentation Analysis & Interactive Dashboard (Python notebook in English)](https://github.com/Zliubov/data_analyst_projects/blob/2fa2f8fc8d844f86e08d7b8927fb33f3707b5d34/Project%201:%20Interactive%20Dashboard%20for%20Bank%20Customer%20Segmentation/Bank%20Customer%20Segmentation%20Analysis%20&%20Interactive%20Dashboard%20(EN).ipynb)
-02. [Bank Customer Segmentation Analysis & Interactive Dashboard (Python notebook in Russian)](link)
-03. [Presentation (Presentation in Englsih)](link)
-04. [Presentation (Presentation in Russian)](link)
+02. [Bank Customer Segmentation Analysis & Interactive Dashboard (Python notebook in Russian)]([link](https://github.com/Zliubov/data_analyst_projects/blob/95ed5810808ed12c7ad8f32633c0577ee9689183/Project%201:%20Interactive%20Dashboard%20for%20Bank%20Customer%20Segmentation/Bank%20Customer%20Segmentation%20Analysis%20&%20Interactive%20Dashboard%20(RU).ipynb))
+03. [Presentation (Presentation in Englsih)]([link](https://github.com/Zliubov/data_analyst_projects/blob/95ed5810808ed12c7ad8f32633c0577ee9689183/Project%201:%20Interactive%20Dashboard%20for%20Bank%20Customer%20Segmentation/Segmentation%20of%20the%20customers%20of%20the%20bank.pdf))
+04. [Presentation (Presentation in Russian)]([link](https://github.com/Zliubov/data_analyst_projects/blob/95ed5810808ed12c7ad8f32633c0577ee9689183/Project%201:%20Interactive%20Dashboard%20for%20Bank%20Customer%20Segmentation/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%81%D0%B5%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0.pdf))
 
 
 ## Project steps
