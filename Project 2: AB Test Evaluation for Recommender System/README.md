@@ -11,8 +11,8 @@ The test was conducted on new users from the EU region with the goal of testing 
 English, Russian
 
 #### Project files
-01. [Analysis (Jupyter Notebook in English)](https://github.com/Zliubov/data_analyst_projects/blob/2fa2f8fc8d844f86e08d7b8927fb33f3707b5d34/Project%201:%20Interactive%20Dashboard%20for%20Bank%20Customer%20Segmentation/Bank%20Customer%20Segmentation%20Analysis%20&%20Interactive%20Dashboard%20(EN).ipynb)
-02. [Analysis (Jupyter Notebook in Russian)](https://github.com/Zliubov/data_analyst_projects/blob/b4607bc852c45e7afa6b121c24f069120f48adc9/Project%201:%20Interactive%20Dashboard%20for%20Bank%20Customer%20Segmentation/Bank%20Customer%20Segmentation%20Analysis%20&%20Interactive%20Dashboard%20(RU).ipynb)
+01. [Analysis (Jupyter Notebook in English)](https://github.com/Zliubov/data_analyst_projects/blob/1e4be071159f3428e61063a2291b363b85767bbd/Project%202:%20AB%20Test%20Evaluation%20for%20Recommender%20System/AB%20Test%20Evaluation%20for%20Recommender%20System%20(EN).ipynb)
+02. [Analysis (Jupyter Notebook in Russian)](https://github.com/Zliubov/data_analyst_projects/blob/1e4be071159f3428e61063a2291b363b85767bbd/Project%202:%20AB%20Test%20Evaluation%20for%20Recommender%20System/AB%20Test%20Evaluation%20for%20Recommender%20System%20(RU).ipynb)
 
 #### Project steps
 
