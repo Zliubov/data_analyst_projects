@@ -67,23 +67,33 @@ English, Russian
 02. [Analysis (Jupyter Notebook in Russian)](https://github.com/Zliubov/data_analyst_projects/blob/b4607bc852c45e7afa6b121c24f069120f48adc9/Project%201:%20Interactive%20Dashboard%20for%20Bank%20Customer%20Segmentation/Bank%20Customer%20Segmentation%20Analysis%20&%20Interactive%20Dashboard%20(RU).ipynb)
 
 #### Project steps
+
 ##### **Exploratory Data Analysis**.
 
-This stage involves visualising and summarising customer data to identify patterns and trends, and selecting appropriate characteristics for customer segmentation.
+Identifying duplicates, cleaning and transforming client data, identifying patterns in the missing values (if any), processing the missing values and preparing the data for exploratory data analysis.
 
-##### **Segmentation of bank customers**.
+##### **Evaluation of the accuracy of the test.
 
-This step involves segmenting the bank's customers into no more than 4 main categories based on the number of products used and the churn rate.
-It is also necessary to assess the degree of similarity between the different categories and to draw a final boundary between the categories.
+Evaluation of the indicators:
 
-##### **Statistical analysis of the data**.
+    - Evaluation of the data against the requirements of the technical task (Statement of Work). Evaluating the correctnness of all the requirements of the AB test. 
+    - Evaluation of the timing of the test. Possible conflicts with marketing and other activities.
+    - Evaluation of the target audience of the test. Assessment of possible overlap with a competing test, overlaps between groups. Assesmennt of the distribution and formation of the groups throughout the test.
 
-In this step, statistical methods are used to further investigate and verify the segments obtained in the segmentation stage.
-Testing the hypothesis of a difference in income between customers who use two banking products and those who use one.
-Formulate and test the second statistical hypothesis in relation to the data presented (preliminary - are there differences in the balance of those who leave the bank and those who remain).
+##### **Exploratory data analysis**.
 
-##### **Preparing the presentation**.
+The evaluation of the questions:
 
-Creating of a dashboard.
-Final conclusions and recommendations. 
-Preparation of the research presentation for a bank manager.
+    - Is the number of events per user evenly distributed across the samples?
+    - How is the number of events in the samples distributed by day?
+    - How does the conversion rate change in the funnel in the samples at different stages?
+    - What characteristics of the data should be considered before starting A/B testing?
+    
+##### **Evaluating the results of A/B testing**
+
+    - Evaluation of the results of the A/B test.
+    - Statistical variance of the shares using a z-test.
+    
+##### **The overall conclusion**.
+
+Conclusions on the exploratory data analysis phase and on the A/B test results you performed. A general conclusion about the validity of the test.
