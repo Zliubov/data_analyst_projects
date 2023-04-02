@@ -8,7 +8,7 @@ Project focuses on analyzing 10,000 bank customers, creating customer segments, 
 Project involves building an interactive dashboard for analyzing customer segments for Bank Metanprom and creating a presentation. 
 
 ## Project files
-01. [Bank Customer Segmentation Analysis & Interactive Dashboard (Python notebook in English)](link)
+01. [Bank Customer Segmentation Analysis & Interactive Dashboard (Python notebook in English)](https://github.com/Zliubov/data_analyst_projects/blob/2fa2f8fc8d844f86e08d7b8927fb33f3707b5d34/Project%201:%20Interactive%20Dashboard%20for%20Bank%20Customer%20Segmentation/Bank%20Customer%20Segmentation%20Analysis%20&%20Interactive%20Dashboard%20(EN).ipynb)
 02. [Bank Customer Segmentation Analysis & Interactive Dashboard (Python notebook in Russian)](link)
 03. [Presentation (Presentation in Englsih)](link)
 04. [Presentation (Presentation in Russian)](link)
