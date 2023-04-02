@@ -76,23 +76,22 @@ Identifying duplicates, cleaning and transforming client data, identifying patte
 
 Evaluation of the indicators:
 
-    - Evaluation of the data against the requirements of the technical task (Statement of Work). Evaluating the correctnness of all the requirements of the AB test. 
-    - Evaluation of the timing of the test. Possible conflicts with marketing and other activities.
-    - Evaluation of the target audience of the test. Assessment of possible overlap with a competing test, overlaps between groups. Assesmennt of the distribution and formation of the groups throughout the test.
+Evaluation of the data against the requirements of the technical task (Statement of Work). Evaluating the correctnness of all the requirements of the AB test. 
+Evaluation of the timing of the test. Possible conflicts with marketing and other activities.
+Evaluation of the target audience of the test. Assessment of possible overlap with a competing test, overlaps between groups. Assesmennt of the distribution and formation of the groups throughout the test.
 
 ##### **Exploratory data analysis**.
 
 The evaluation of the questions:
 
-    - Is the number of events per user evenly distributed across the samples?
-    - How is the number of events in the samples distributed by day?
-    - How does the conversion rate change in the funnel in the samples at different stages?
-    - What characteristics of the data should be considered before starting A/B testing?
+Is the number of events per user evenly distributed across the samples?
+How is the number of events in the samples distributed by day?
+How does the conversion rate change in the funnel in the samples at different stages?
+What characteristics of the data should be considered before starting A/B testing?
     
 ##### **Evaluating the results of A/B testing**
-
-    - Evaluation of the results of the A/B test.
-    - Statistical variance of the shares using a z-test.
+Evaluation of the results of the A/B test.
+Statistical variance of the shares using a z-test.
     
 ##### **The overall conclusion**.
 
