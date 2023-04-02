@@ -124,7 +124,7 @@ This project involves analyzing a book-reading service database using SQL querie
 #### Project Language
 English, Russian
 
-#### #### Project files
+#### Project files
 01. [Analysis (Jupyter Notebook notebook in English)](https://github.com/Zliubov/data_analyst_projects/blob/0d7d13f3773034095e0756e4cd0b381c7773183b/Project%203:%20SQL%20queries%20for%20Database%20Analysis/SQL%20queris%20for%20Book%20Database%20Analysis%20(EN).ipynb)
 02. [Analysis (Jupyter Notebook notebook in Russian)](https://github.com/Zliubov/data_analyst_projects/blob/0d7d13f3773034095e0756e4cd0b381c7773183b/Project%203:%20SQL%20queries%20for%20Database%20Analysis/SQL%20queris%20for%20Book%20Database%20Analysis%20(RU).ipynb)
 
