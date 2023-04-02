@@ -6,7 +6,7 @@ This portfolio showcases my skills as a data analyst and provides examples of ho
 
 ## Table of Contents
 
-- [Project 1: Interactive Dashboard for Bank Customer Segmentation](#project-1)
+- [Project 1: Interactive Dashboard for Bank Customer Segmentation (RU, ENG)](#project-1)
 
 ## Projects
 
@@ -16,6 +16,10 @@ This project is graduation project for the Data Analysis Professional Training C
 Project focuses on analyzing 10,000 bank customers, creating customer segments, statistical analysis and new product recommendations. 
 Project involves building an interactive dashboard for analyzing customer segments for Bank Metanprom and creating a presentation. 
 The dashboard provides insights on customer behavior and recommends specific products that might be of interest to different customer segments.
+
+#### Project Language
+English, Russian
+
 #### Project files
 01. [Bank Customer Segmentation Analysis & Interactive Dashboard (Python notebook in English)](https://github.com/Zliubov/data_analyst_projects/blob/2fa2f8fc8d844f86e08d7b8927fb33f3707b5d34/Project%201:%20Interactive%20Dashboard%20for%20Bank%20Customer%20Segmentation/Bank%20Customer%20Segmentation%20Analysis%20&%20Interactive%20Dashboard%20(EN).ipynb)
 02. [Bank Customer Segmentation Analysis & Interactive Dashboard (Python notebook in Russian)](https://github.com/Zliubov/data_analyst_projects/blob/95ed5810808ed12c7ad8f32633c0577ee9689183/Project%201:%20Interactive%20Dashboard%20for%20Bank%20Customer%20Segmentation/Bank%20Customer%20Segmentation%20Analysis%20&%20Interactive%20Dashboard%20(RU).ipynb)
