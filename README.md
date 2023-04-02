@@ -134,7 +134,7 @@ The project involves analyzing a dataset of catering establishments in Moscow co
 
 ##### Project files
 01. [Analysis (Jupyter Notebook in Russian)](https://github.com/Zliubov/data_analyst_projects/blob/640a11df052116ea14a2042ff98ed69eb557ca2e/ExtraProjects/Moscow%20Catering%20Market%20Analysis.ipynb)
-02. [Presentation in Russian](https://github.com/Zliubov/data_analyst_projects/blob/640a11df052116ea14a2042ff98ed69eb557ca2e/ExtraProjects/Moscow%20Catering%20Market%20Analysis%20Presentation.pdf)
+02. [Presentation in Russian](https://github.com/Zliubov/data_analyst_projects/blob/3e88b9ee129282899380a0e4a4f6b4d97902b0f9/ExtraProjects/Moscow%20Catering%20Market%20Analysis%20Presentation.pdf)
 
 
 #### Project Analysis of Mobile App User Behavior and A/A/B Testing for Font Change
