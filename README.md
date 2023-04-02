@@ -98,3 +98,29 @@ Statistical variance of the shares using a z-test.
 ##### **The overall conclusion**.
 
 Conclusions on the exploratory data analysis phase and on the A/B test results you performed. A general conclusion about the validity of the test.
+
+
+<details>
+  <summary>Click to expand</summary>
+
+  <!-- Your content here -->
+  <h2>Your Heading</h2>
+  <p>Your paragraph text goes here.</p>
+</details>
+
+<script>
+  // Toggles the summary when clicked
+  const details = document.querySelectorAll("details");
+
+  details.forEach((targetDetail) => {
+    targetDetail.addEventListener("click", () => {
+      // Close all the details that are not targetDetail
+      details.forEach((detail) => {
+        if (detail !== targetDetail) {
+          detail.removeAttribute("open");
+        }
+      });
+    });
+  });
+</script>
+
