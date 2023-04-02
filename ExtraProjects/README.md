@@ -31,7 +31,7 @@ The project involves studying the behavior of mobile app users of a food product
 
 The project involves conducting an A/B test for an online shop and analyzing the results. In the first part of the project, hypotheses are prioritized using the ICE and RICE frameworks based on parameters such as Reach, Impact, Confidence, and Effort. In the second part of the project, the A/B test results are analyzed by plotting cumulative revenue, average receipt, number of orders, and relative changes in these metrics for both groups. Dot plots are constructed to identify abnormal users and orders, and statistical significance is calculated for differences in average number of orders and order receipts between the groups on raw and cleaned data. Based on the results, a decision is made on whether to stop or continue the test.
 
-01. [Analysis (Jupyter Notebook in Russian)](https://github.com/Zliubov/data_analyst_projects/blob/21a3c2e146a1bac0f5a23fd8b59add877cd25c2e/ExtraProjects/AAB%20Testing%20for%20Font%20Change%20in%20an%20App.ipynb)
+01. [Analysis (Jupyter Notebook in Russian)](https://github.com/Zliubov/data_analyst_projects/blob/19de982c614480e18f929e6bfc6afee62c874a55/ExtraProjects/Hypothesis%20Prioritization%20and%20AB%20Testing%20for%20an%20Online%20Shop.ipynb)
 
 
 
