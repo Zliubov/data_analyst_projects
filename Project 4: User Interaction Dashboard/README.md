@@ -8,8 +8,8 @@ User Interaction Dashboard project aims to provide content analysis managers wit
 English, Russian
 
 #### Project files
-01. [Presentation in Englsih]()
-02. [Presentation in Russian]()
+01. [Presentation in Englsih](https://github.com/Zliubov/data_analyst_projects/blob/493d9b710570f9a8ac5249823ab10c6e4d40617c/Project%204:%20User%20Interaction%20Dashboard/Dashboard%20Dzen.pdf)
+02. [Presentation in Russian](https://github.com/Zliubov/data_analyst_projects/blob/493d9b710570f9a8ac5249823ab10c6e4d40617c/Project%204:%20User%20Interaction%20Dashboard/%D0%94%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4%20%D0%94%D0%B7%D0%B5%D0%BD.pdf)
 03. [Dashboard in English](https://public.tableau.com/views/DzenDashboard_16734756976880/DashboardDzen?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 04. [Dashboard in Russian](https://public.tableau.com/views/DzenDashboardru/_?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) 
 
