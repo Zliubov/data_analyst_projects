@@ -9,6 +9,7 @@ This portfolio showcases my skills as a data analyst and provides examples of ho
 - [Project 1: Interactive Dashboard for Bank Customer Segmentation (RU, ENG)](#project-1)
 - [Project 2: A/B Test Evaluation for Recommender System (RU, ENG)](#project-2)
 - [Project 3: SQL queries for Book-Reading Service Database Analysis (RU, ENG)](#project-3)
+- [Project 4: User Interaction Dashboard (RU, ENG)](#project-4)
 - [ExtraProjects in Russian: Various projects (RU)](#project-extra)
 
 ## Projects
@@ -132,7 +133,7 @@ English, Russian
 ## 
 
 
-### Project 4: SQL queries for Book-Reading Service Database Analysis<a name="project-3"></a>
+### Project 4: User Interaction Dashboard<a name="project-4"></a>
 This project is graduation project for the Data Analysis Professional Training Course for SQL.
 #### Project Description
 This project involves analyzing a book-reading service database using SQL queries to formulate a value proposition for a new product. Tasks include counting books released after 2000, finding the number of reviews and average rating for each book, identifying the publisher with the most books over 50 pages, finding the author with the highest book review rating, and counting the average number of reviews from users who gave more than 50 ratings.
@@ -143,8 +144,8 @@ English, Russian
 #### Project files
 01. [Analysis (Jupyter Notebook in English)](https://github.com/Zliubov/data_analyst_projects/blob/2fa2f8fc8d844f86e08d7b8927fb33f3707b5d34/Project%201:%20Interactive%20Dashboard%20for%20Bank%20Customer%20Segmentation/Bank%20Customer%20Segmentation%20Analysis%20&%20Interactive%20Dashboard%20(EN).ipynb)
 02. [Analysis (Jupyter Notebook in Russian)](https://github.com/Zliubov/data_analyst_projects/blob/b4607bc852c45e7afa6b121c24f069120f48adc9/Project%201:%20Interactive%20Dashboard%20for%20Bank%20Customer%20Segmentation/Bank%20Customer%20Segmentation%20Analysis%20&%20Interactive%20Dashboard%20(RU).ipynb)
-03. [Presentation in Englsih](https://github.com/Zliubov/data_analyst_projects/blob/95ed5810808ed12c7ad8f32633c0577ee9689183/Project%201:%20Interactive%20Dashboard%20for%20Bank%20Customer%20Segmentation/Segmentation%20of%20the%20customers%20of%20the%20bank.pdf)
-04. [Presentation in Russian](https://github.com/Zliubov/data_analyst_projects/blob/95ed5810808ed12c7ad8f32633c0577ee9689183/Project%201:%20Interactive%20Dashboard%20for%20Bank%20Customer%20Segmentation/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%81%D0%B5%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0.pdf)
+03. [Presentation in Englsih]()
+04. [Presentation in Russian]()
 05. [Dashboard in English](https://public.tableau.com/views/DzenDashboard_16734756976880/DashboardDzen?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 06. [Dashboard in Russian](https://public.tableau.com/views/DzenDashboardru/_?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) 
 
