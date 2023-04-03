@@ -29,7 +29,7 @@ English, Russian
 03. [Presentation in Englsih](https://github.com/Zliubov/data_analyst_projects/blob/95ed5810808ed12c7ad8f32633c0577ee9689183/Project%201:%20Interactive%20Dashboard%20for%20Bank%20Customer%20Segmentation/Segmentation%20of%20the%20customers%20of%20the%20bank.pdf)
 04. [Presentation in Russian](https://github.com/Zliubov/data_analyst_projects/blob/95ed5810808ed12c7ad8f32633c0577ee9689183/Project%201:%20Interactive%20Dashboard%20for%20Bank%20Customer%20Segmentation/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%81%D0%B5%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0.pdf)
 05. [Dashboard in English](https://public.tableau.com/views/Metanprom_16752050184820/MetanpromDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
-06. [Dashboard in Russian](https://public.tableau.com/views/Metanprom_16752050184820/MetanpromDash?:language=en-US&:display_count=n&:origin=viz_share_link) 
+06. [Dashboard in Russian](https://public.tableau.com/views/MetanpromDashboardru/MetanpromDash?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) 
 
 #### Project steps
 
