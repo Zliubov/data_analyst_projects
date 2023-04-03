@@ -154,11 +154,11 @@ English, Russian
   <summary>See project steps</summary>
      <p>
 
-##### **Collection and preparation of data.**
+##### **Collection and preparation of data**
 
 The first step in the project will be to collect and prepare the data needed for the dashboard. This will include extracting the required data from the zen database. The data will be cleaned and processed to make sure it is suitable for analysis and the result will be presented as a file.
 
-##### **Dashboard development.** 
+##### **Dashboard development** 
 The next step is to develop a dashboard using the Tableau tool. A dashboard should be user-friendly and visually appealing, and be able to display data in a clear and meaningful way.
 
 ##### **Analysis and visualization**
