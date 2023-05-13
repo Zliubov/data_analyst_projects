@@ -10,6 +10,7 @@ This portfolio showcases my skills as a data analyst and provides examples of ho
 - [Project 2: A/B Test Evaluation for Recommender System (RU, ENG)](#project-2)
 - [Project 3: SQL queries for Book-Reading Service Database Analysis (RU, ENG)](#project-3)
 - [Project 4: User Interaction Dashboard (RU, ENG)](#project-4)
+- [Project 5: Betrugsprävention und Saldenübersicht-Analyse (DE)](#project-5)
 - [ExtraProjects in Russian: Various projects (RU)](#project-extra)
 
 ## Projects
@@ -174,6 +175,18 @@ The developed dashboard will be tested to make sure that all the requirements me
 
 ## 
 
+
+### Project 5: Betrugsprävention und Saldenübersicht-Analyse <a name="project-5"></a>
+Bei diesem Projekt geht es um Geschäfts- und Prozessanalyse, Finanzanalyse und Datenvisualisierung.
+#### Project Description
+In diesem Projekt geht es um zwei Aufgaben, die im Bereich der Datenanalyse liegen. Die erste Aufgabe ist die Betrugsprävention für ein neues Produkt mit hoher Provision. Hier geht es darum, sicherzustellen, dass alle Transaktionen für das neue Produkt sorgfältig überwacht und analysiert werden, um Betrug zu verhindern oder zu erkennen. Die zweite Aufgabe ist die Analyse einer Saldenübersicht auf mögliche Auffälligkeiten. Hier geht es darum, die Daten auf Auffälligkeiten zu überprüfen und mögliche Fraud-Muster zu identifizieren.
+#### Project Language
+Deutsch
+#### Project files
+01. [Website der Präsentation](http://dataportfolio.tilda.ws/)
+
+
+## 
 
 ### ExtraProjects in Russian:  Various projects<a name="project-extra"></a>
 
